@@ -3,6 +3,6 @@
   "useCrafatar": false,
   "useCustomServer": false,
   "useCustomServer2": true,
-  "hostCustomServer2Skin": "https://raw.githubusercontent.com/64-Tesseract/mc-skin-server/master/skins/%name%.png",
-  "hostCustomServer2Cape": "https://raw.githubusercontent.com/64-Tesseract/mc-skin-server/master/capes/%name%.png"
+  "hostCustomServer2Skin": "https://raw.githubusercontent.com/stickynoteme/mc-skin-server/master/skins/%name%.png",
+  "hostCustomServer2Cape": "https://raw.githubusercontent.com/stickynoteme/mc-skin-server/master/capes/%name%.png"
 }
